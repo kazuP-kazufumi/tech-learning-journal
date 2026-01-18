@@ -1,2 +1,20 @@
-# tech-learning-journal
-Personal learning log and technical notes related to infrastructure engineering.
+# 個人学習ログ
+
+このリポジトリは、プライベートでの学習内容を記録するための個人的な学習ログです。
+AWS-SAAの取得のためにCloud -techでインプットしたコンテンツの内容を自分の頭の中で整理するためのアウトプット用に設けました。
+
+## 目的
+
+資格学習（AWS SAA など）を通じて得た知識を整理する
+
+
+
+## 方針
+
+自分なりに表現を工夫して記述する
+AIは用いない
+AWSトピック以外にも何らかの学習関連事項も記述する
+gitコマンドとGitHubの活用に馴染むためでもある
+
+
+完璧さは求めない
